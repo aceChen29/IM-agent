@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: InfiniteChat-Agent
+  profiles:
+    active: dev
+
+server:
+  port: 10010
